@@ -1,0 +1,7 @@
+.appWraper {
+  width: 95%;
+  /* height: 600px; */
+  /* border: 20px solid black; */
+  overflow: hidden;
+  margin: 0 auto;
+}
