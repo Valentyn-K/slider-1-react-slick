@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/slider-1-react-slick/static/css/main.7e69bcb2.chunk.css",
+    "main.js": "/slider-1-react-slick/static/js/main.2af7fa1b.chunk.js",
+    "main.js.map": "/slider-1-react-slick/static/js/main.2af7fa1b.chunk.js.map",
+    "runtime-main.js": "/slider-1-react-slick/static/js/runtime-main.89581e39.js",
+    "runtime-main.js.map": "/slider-1-react-slick/static/js/runtime-main.89581e39.js.map",
+    "static/css/2.d3c02882.chunk.css": "/slider-1-react-slick/static/css/2.d3c02882.chunk.css",
+    "static/js/2.09f53240.chunk.js": "/slider-1-react-slick/static/js/2.09f53240.chunk.js",
+    "static/js/2.09f53240.chunk.js.map": "/slider-1-react-slick/static/js/2.09f53240.chunk.js.map",
+    "index.html": "/slider-1-react-slick/index.html",
+    "precache-manifest.7b2df162532689c8059eea84c7fb0ec2.js": "/slider-1-react-slick/precache-manifest.7b2df162532689c8059eea84c7fb0ec2.js",
+    "service-worker.js": "/slider-1-react-slick/service-worker.js",
+    "static/css/2.d3c02882.chunk.css.map": "/slider-1-react-slick/static/css/2.d3c02882.chunk.css.map",
+    "static/css/main.7e69bcb2.chunk.css.map": "/slider-1-react-slick/static/css/main.7e69bcb2.chunk.css.map",
+    "static/js/2.09f53240.chunk.js.LICENSE.txt": "/slider-1-react-slick/static/js/2.09f53240.chunk.js.LICENSE.txt",
+    "static/media/car-mazda3.jpg": "/slider-1-react-slick/static/media/car-mazda3.0dbb617f.jpg",
+    "static/media/car-new-scoda.jpg": "/slider-1-react-slick/static/media/car-new-scoda.8e2a5f05.jpg",
+    "static/media/car-scoda-fabia.jpg": "/slider-1-react-slick/static/media/car-scoda-fabia.e5be3f13.jpg",
+    "static/media/car-shevrole.jpg": "/slider-1-react-slick/static/media/car-shevrole.47948a71.jpg",
+    "static/media/slick-theme.css": "/slider-1-react-slick/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89581e39.js",
+    "static/css/2.d3c02882.chunk.css",
+    "static/js/2.09f53240.chunk.js",
+    "static/css/main.7e69bcb2.chunk.css",
+    "static/js/main.2af7fa1b.chunk.js"
+  ]
+}
